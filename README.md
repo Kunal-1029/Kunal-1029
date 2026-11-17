@@ -1,55 +1,52 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kunal%20Thakur&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20Enthusiast%20%7C%20B.Tech%20CSE%20Student&descSize=20&descAlignY=60&descColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kunal%20Thakur&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20B.Tech%20Computer%20Science%20Student&descSize=20&descAlignY=60&descColor=FFFFFF" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=60&lines=Data+Scientist+Enthusiast+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Insights;Python+%7C+Machine+Learning+%7C+Analytics;Exploring+AI+%2F+ML+One+Model+at+a+Time;Learning+and+Building+Every+Day+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=60&lines=Aspiring+Data+Scientist;Turning+Data+into+Actionable+Insights;Python+%7C+Machine+Learning+%7C+Data+Analysis;Exploring+Artificial+Intelligence+and+ML;Continuously+Learning+and+Building" alt="Typing animation" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kunal-1029&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Kunal-1029?label=Followers&style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/github/stars/Kunal-1029?label=Stars&style=for-the-badge&color=00E5FF"/>
+<img src="https://komarev.com/ghpvc/?username=Kunal-1029&label=Profile%20Views&color=00E5FF&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Kunal-1029?label=Followers&style=flat-square&color=00E5FF"/>
+<img src="https://img.shields.io/github/stars/Kunal-1029?label=Stars&style=flat-square&color=00E5FF"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
+I am a B.Tech Computer Science student with a strong interest in data science, machine learning and artificial intelligence. I enjoy building practical projects, and I am continuously improving my technical skills.
 
 ```python
 class Kunal:
     name = "Kunal Thakur"
-    role = "B.Tech CSE Student"
+    education = "B.Tech, Computer Science and Engineering"
     aspiring = "Data Scientist"
-    interests = ["Data Analysis", "Machine Learning", "AI", "Modern Web Development"]
+    interests = ["Data Analysis", "Machine Learning", "Artificial Intelligence", "Web Development"]
     languages = ["C", "C++", "Python", "Java"]
-    motto = "Code • Learn • Build • Improve • Repeat"
-
-    def currently(self):
-        return "Turning data into insights and learning something new every day"
 ```
 
-- 🎓 B.Tech CSE student passionate about technology
-- 📊 Aspiring **Data Scientist**: exploring data analysis, ML and AI
-- 🌐 Also exploring **Modern Web Development**
-- 🛠️ Love building creative tech projects
-- 🌱 Always learning new tools and improving my skills
+- Pursuing a B.Tech in Computer Science and Engineering
+- Exploring data analysis, machine learning and AI
+- Interested in modern web development
+- Building projects to apply and strengthen new skills
 
 ---
 
-## 🔭 Data Science Roadmap
+## Learning Roadmap
 
-| Stage | Focus | Status |
-|-------|-------|--------|
-| 🧮 Foundations | Python, Statistics, Math for ML | 🟢 In Progress |
-| 📈 Data Analysis | Data Cleaning, EDA, Visualization | 🟡 Exploring |
-| 🤖 Machine Learning | Regression, Classification, Clustering | 🟡 Exploring |
-| 🧠 Deep Learning & AI | Neural Networks, Modern AI | 🔵 Up Next |
-| 🚀 Projects | End-to-end data projects | 🟢 Always Building |
+| Area | Focus | Status |
+|------|-------|--------|
+| Foundations | Python, Statistics, Mathematics for ML | In progress |
+| Data Analysis | Data Cleaning, Exploratory Analysis, Visualization | Exploring |
+| Machine Learning | Regression, Classification, Clustering | Exploring |
+| Deep Learning and AI | Neural Networks, Modern AI Techniques | Upcoming |
+| Projects | End-to-end data science projects | Ongoing |
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github,visualstudio&theme=dark" />
@@ -57,7 +54,7 @@ class Kunal:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal-1029&show_icons=true&theme=radical&hide_border=true"/>
@@ -70,7 +67,7 @@ class Kunal:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-1029&theme=react-dark&hide_border=true&area=true"/>
@@ -78,15 +75,7 @@ class Kunal:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kunal-1029&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🤝 Connect With Me
+## Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kunal-thakur-112864326">
@@ -98,12 +87,6 @@ class Kunal:
 <a href="https://www.instagram.com/kunal_sukuna29">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
-
----
-
-<p align="center">
-<i>"Without data, you're just another person with an opinion."</i>
 </p>
 
 <p align="center">
